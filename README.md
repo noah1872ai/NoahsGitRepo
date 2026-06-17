@@ -1,0 +1,1 @@
+This houses the LED Blink demo created in June of 20206. This was the first MODBUS example where we had a LED connected to a pin of an arduino board being commanded to blink at different intervals. Demonstraited on both a Python script running on my computer with an embedded TKinter GUI and also from a Redlion Graphite controller speaking Modbus. 
